@@ -91,7 +91,7 @@ These didn't make the list for one reason or another, but are still worth checki
 * [python-dp](https://github.com/OpenMined/PyDP): Python data privacy
 * [scikit-plot](https://github.com/reiinakano/scikit-plot): AI explanation & visualisation
 * [lime](https://github.com/marcotcr/lime): Quicker explainable AI
-* [pyLDAvis]https://github.com/bmabey/pyLDAvis): Interactive topic model visualisation
+* [pyLDAvis](https://github.com/bmabey/pyLDAvis): Interactive topic model visualisation
 * [mlflow](https://github.com/mlflow/mlflow): AI tracking & serving
 * [nbstripout](https://github.com/kynan/nbstripout): Remove Jupyter output cells from git
 * [loguru](https://github.com/Delgan/loguru): Easy, colourful logging
