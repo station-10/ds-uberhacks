@@ -4,7 +4,7 @@ Repo to compliment my 10 Data Science Uberhacks to Turbocharge your workflow pre
 
 ## The Uberhacks
 
-### 1. Guthub Awesomeness
+### 1. Github Awesomeness
 Awesome curated content. Great for researching and finding more uberhacks.
 
 Some good awesome lists:
