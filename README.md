@@ -73,6 +73,9 @@ find a way to fix it 😫.
 Makefile from [Yuxiang Gong's tutorial](https://medium.com/@ygong/create-virtualenv-for-data-science-projects-with-one-command-only-7bec3548419f)
 which is also probably a good place to start for learning more about it. 
 7. Remember... Make is pre-installed on linux, available via XCode on mac and via choco on Windows!
+8. Last thing I promise! `nbstripout` is awesome and will remove your notebook output cells from git 
+so you don't commit sensitive data. EVERYONE should be using it! In hindsight, it should have made the
+top 10. Maybe next time...
 
 
 ### More Uberhacky Things...
