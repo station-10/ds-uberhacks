@@ -2,6 +2,8 @@
 
 Repo to compliment my 10 Data Science Uberhacks to Turbocharge your workflow presentation.
 
+It has my slides, this README with a bunch of links in and a basic Makefile.
+
 ## The Uberhacks
 
 ### 1. Github Awesomeness
